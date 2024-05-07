@@ -14,6 +14,6 @@ This project focused on analyzing customer feedback data for a major hotel chain
 
 Overall, I leveraged my data analytics skills to pinpoint weaknesses in specific hotel services and locations, allowing LuxurStay Hotels to address customer concerns and enhance their service quality.
 
-Check out the project [Here](https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/workspace/notebook.ipynb)
+Check out the project **[Here](https://github.com/JachimmaChristian/Hotel-Operations-SQL-/blob/main/workspace/notebook.ipynb)**
 
 P.S This project earned me the DataCamp **SQl Associate [certification](https://www.datacamp.com/certificate/SQA0012587875390)**
